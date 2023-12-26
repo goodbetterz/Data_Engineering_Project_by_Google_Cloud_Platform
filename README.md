@@ -13,4 +13,4 @@ This is my first project to learn about data engineering. In this project it wil
 - Language - [**Python**](https://www.python.org)
 
 ## Architecture
-![architecture](images/architecture.jpg)
+![architecture](images/architecture.png)
